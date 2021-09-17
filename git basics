@@ -22,9 +22,9 @@
 		{This step is = git add * from command line}
 		
 		=> Select project and click 'commit'		
+			now, it got commited to our local repository
 		
-		
-		
+		=> to make a connection between local and git repository
 		
 		
 		
