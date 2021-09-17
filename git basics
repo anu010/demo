@@ -24,8 +24,11 @@
 		=> Select project and click 'commit'		
 			now, it got commited to our local repository
 		
-		=> to make a connection between local and git repository
-		
+		=> to make a connection between local and git repository(remote)
+		   right click on project -> remote -> push
+		   Destination Git repository POP UP {enter the git repository url eg:https://github.com/anu010/demo.git} -> after entering the details click 'preview'
+		   Push Ref Specifications select source ref : master -> click Add Spec -> click Push.
+		   
 		
 		
 		
