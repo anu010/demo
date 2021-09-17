@@ -1,0 +1,24 @@
+
+
+			Q:: What is the difference between UAT (User Acceptance Testing) and System testing?
+
+				System Testing: 
+					System testing is finding defects when the system undergoes 
+					testing as a whole; it is also known as end-to-end testing. 
+					In such type of testing, the application suffers from beginning till the end.
+
+				UAT: 
+					User Acceptance Testing (UAT) involves running a product through 
+					a series of specific tests which determines whether the product 
+					will meet the needs of its users.
+
+
+
+
+
+
+
+
+
+
+

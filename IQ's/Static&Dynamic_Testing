@@ -1,0 +1,10 @@
+
+
+		Q:: What is the difference between static and dynamic testing?
+
+		A::	Static testing: During Static testing method, the code is not executed, 
+							and it is performed using the software documentation.
+
+			Dynamic testing: To perform this testing the code is required 
+							 to be in an executable form.
+		

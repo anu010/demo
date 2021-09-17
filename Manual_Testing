@@ -1,0 +1,47 @@
+
+
+Defect : difference between expected and actual output
+
+
+						Manual testing :
+	
+	- type of software testing in which test cases are executed manually by a tester without using any automated tools .
+	
+	= Purpose :
+		to identify the 'BUGS' , 'ISSUES' , 'DEFECTS' in the software application.
+		
+	= Goals :
+		to ensure that the application is error free.
+		makes sure that reported defects are fixed by developers
+		and reTesting has been performed by Testers on the fixed defects.
+		checks the quality of the system and delivers bug-free product to the customer.
+		
+	= Types of Manual Testing :
+		Black Box Testing
+		White Box Testing
+		Unit Testing
+		System Testing
+		Integration Testing
+		Acceptance Testing
+		
+		
+	= How to perform :
+		Read & understand the software project documentation/guides.'
+		Draft test cases that cover all the requirements mentioned in the documentation.
+		Review & Baseline the test cases with Team Lead, Client (as applicable)
+		Execute the test cases on the AUT.
+		Report Bugs
+		Once bugs are fixed, again execute the failing test cases to verify they passed.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

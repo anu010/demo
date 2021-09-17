@@ -1,0 +1,15 @@
+
+
+		Q:: What is the difference between test scenarios, test cases, and test script?
+
+		A::		Test Scenarios: 
+					A Test Scenario is any functionality that can be tested. It is also called Test Condition or Test Possibility.
+
+				Test Cases: 
+					It is a document that contains the steps that have to be executed; it has been planned earlier.
+
+				Test Script:
+					It is written in a programming language and it’s a short program used to test part of the functionality of the software system. In other words a written set of steps that should be performed manually.
+
+		
+		

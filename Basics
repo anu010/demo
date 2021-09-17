@@ -1,0 +1,59 @@
+
+
+				Command Prompt::
+
+-->		C:\Users\anush>echo %JAVA_HOME%
+	C:\Program Files\Java\jdk1.8.0_301\jre
+
+	C:\Users\anush>cd /d C:/Program Files
+
+	C:\Program Files>mvn -version
+	Apache Maven 3.8.2 (ea98e05a04480131370aa0c110b8c54cf726c06f)
+	Maven home: D:\Downloads_DFolder\apache-maven-3.8.2-bin\apache-maven-3.8.2
+	Java version: 1.8.0_301, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk1.8.0_301\jre
+	Default locale: en_IN, platform encoding: Cp1252
+	OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+	
+	
+	
+-->  C:\Program Files>mvn clean 
+		(mvn clean -This command will delete all temporary files of current project 
+			& delete all the previous references and the builds)
+	
+	
+-->  C:\Program Files>mvn compile
+		(mvn compile - This command checks the syntax errors)
+	
+	
+-->  C:\Program Files>mvn test
+	    (mvn test - this command will do all the operations. i.e: it triggers the execution)
+	
+	
+IQ :: 	** Surefire plugin to execute all the test in Maven Project.
+
+
+
+
+
+Q : How does one help you in developing your project effectively?
+
+A : it is the central repository to get dependencies.
+	Maintaining common structure across the organization - i.e; having main classes separate and test classes in different package
+	Flexibility in Integrating with CI (Jenkins) tools
+	Plugins for Test framework execution
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+

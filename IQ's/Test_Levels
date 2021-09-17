@@ -1,0 +1,19 @@
+
+
+			Q:: What are the different test levels?
+
+			A::	There are four test levels
+
+					-	Unit/component/program/module testing
+					
+					-	Integration testing
+								:: Integration testing is a level of software testing process, 
+								   where individual units of an application are combined and tested. 
+								   It is usually performed after unit and functional testing.
+								
+								
+								
+					-	System testing
+					-	Acceptance testing
+
+

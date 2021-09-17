@@ -1,0 +1,32 @@
+
+
+
+			Q:: WhiteBox Testing?
+			
+			A:: Understand the source code , & , Create Test Cases and Execute 
+			
+			
+			
+			Q:: What is black box testing? What are the different black box testing techniques?
+
+			A:: Black box testing is the software testing method 
+				which is used to test the software 
+				""without knowing the internal structure of code or program"". 
+				This testing is usually done to check the functionality of an application. 
+				
+				The different black box testing techniques are
+
+					-	Equivalence Partitioning
+					-	Boundary value analysis
+					-	Cause-effect graphing
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

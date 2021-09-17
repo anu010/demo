@@ -1,0 +1,49 @@
+TestNG-- unit testing framework
+
+also called TDD(Test Driven Development) framework (Java unit testing framework)
+
+used to write unit level test-cases. by using Junit or Test NG both are unit testing frameworks.
+
+
+Purpose:--
+
+	+ Design Test cases in a systematic way
+
+	+ generate good HTML reports
+	
+	+ gives a lot of different Annotations
+	
+	+ one test case is dependent on other test case. can define dependency
+	
+	+ also can define grouping
+	
+	*** data provider  
+	
+	
+	
+ -open source , free 
+ -available in form of JAR files
+ 
+ 
+ Install TestNG in Eclipse
+ 
+ from:    https://github.com/cbeust/testng-eclipse 
+ 
+ 
+ Check Reports:
+ 
+ -after every execution refresh the Project
+ 			test-output folder will be created
+ 				inside it : right click on index.html 
+ 					go to properties of index.html
+ 						copy the location & paste in google search  bar & enter.
+ 							we can check the errors.
+ 
+ 
+Running all the classes one by one automatically.
+	- By creating a XML Template File in src folder.
+
+
+
+
+

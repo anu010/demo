@@ -1,0 +1,11 @@
+
+
+		Q:: Mention the difference between Data Driven Testing and Retesting?
+
+			- ReTesting: It is a process of checking bugs that are actioned by the development team 
+			to verify that they are fixed.
+
+			- Data Driven Testing (DDT): In data driven testing process, the application is tested 
+			with multiple test data. 
+			The application is tested with a different set of values.
+		
