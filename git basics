@@ -28,8 +28,6 @@
 		   right click on project -> remote -> push
 		   Destination Git repository POP UP {enter the git repository url eg:https://github.com/anu010/demo.git} -> after entering the details click 'preview'
 		   Push Ref Specifications select source ref : master -> click Add Spec -> click Push.
-		   
-		
 		
 		
 		
