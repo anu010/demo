@@ -57,18 +57,7 @@
 
 			git branch -M main
 
-			git push -u origin main
-		
-		
-		-------------------------------------
-		
-
-		pull request 
-		
-		git pull
-		
-		
-		
+	
 		
 		
 		
